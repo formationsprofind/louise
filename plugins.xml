@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-<plugin name="EventListener_louise" version="1.0.0" plugin_id="eventlistener_louise">
+<plugin name="eventlistener" version="1.0.0" plugin_id="eventlistener">
 <download_url>https://formationsprofind.github.io/louise/EventListener_louise-1.0.0.zip</download_url>
 <homepage>https://formationsprofind.github.io/louise/</homepage>
 <description>Plugin EventListener personnalisé par louise.</description>
