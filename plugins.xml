@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 <plugin name="EventListener_louise" version="1.0.0" plugin_id="eventlistener_louise">
-<download_urlhttps://formationsprofind.github.io/louise/EventListener_louise-1.0.0.zip</download_url>
-<homepagehttps://formationsprofind.github.io/louise/</homepage>
+<download_url>https://formationsprofind.github.io/louise/EventListener_louise-1.0.0.zip</download_url>
+<homepage>https://formationsprofind.github.io/louise/</homepage>
 <description>Plugin EventListener personnalisé par louise.</description>
 <about>Plugin pour écouter les clics, sélections et mouvements de la carte.</about>
 <category>Plugins</category>
-<trackerhttps://formationsprofind.github.io/louise/issues</tracker>
+<tracker>https://formationsprofind.github.io/louise/issues</tracker>
 <author>louise</author>
 <email>louise@example.com</email>
 <qgis_minimum_version>3.22</qgis_minimum_version>
